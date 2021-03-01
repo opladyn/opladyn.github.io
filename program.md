@@ -4,6 +4,31 @@ title: Program
 permalink: /program/
 ---
 
+#### Wednesday, September 26th 2018
+
+9:00 -  9:10, Opening
+: Laura Hernandez
+
+9:10 -  9:50, Keynote
+: Vittorio Loreto, [On the stability of consensus in language and opinion dynamics]((/pdf/Vittorio_Loreto_abstract_K1.pdf))
+
+9:55 - 10:15
+: Kiran Sharma, [Complex network approach to study the dynamics of Mazatec dialects](/pdf/Kiran_Sharma_abstract_C1.pdf)
+
+10:40 - 11:10, Coffee break
+: &nbsp;
+
+11:10 - 11:30
+: Valerio Restocchi, [Influence maximization in real world social networks](/pdf/Valerio_Restocchi_abstract_C3.pdf)
+
+12:00 - 12:30, Invited talk
+: Marton Karsai, [Scio-economic and network dependencies of linguistic pattern in Twitter](/pdf/Marton_Karsai_abstract_I1.pdf)
+
+13:00 - 14:30, Lunch
+: &nbsp;
+
+18:05 - 18:30, Closing discussion
+: &nbsp;
 
 ### Keynote Speakers
 
