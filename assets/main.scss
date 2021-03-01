@@ -3,4 +3,22 @@
 ---
 $content-width: 1024px;
 
+dl {
+    padding: 0;
+
+    dt {
+        padding: 0;
+        margin-top: 1rem;
+        font-size: 1rem;
+        font-weight: bold;
+    }
+
+    dd {
+        padding: 0;
+        margin-left: 2rem;
+        margin-bottom: 1rem;
+    }
+}
+
 @import "minima";
+
