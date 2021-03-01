@@ -21,7 +21,7 @@ Contributions will be assigned for peer review to a pair of members of the Scien
 
 ### Important Dates:
 
-_Deadline for submission:  June 20th_   _Extended deadline: Monday June 25th_ **Closed**
+~Deadline for submission: June 20th~ ~Extended deadline: Monday June 25th~ **Closed**
 Communication of Acceptance : June 29th.
 
 ### Registration
