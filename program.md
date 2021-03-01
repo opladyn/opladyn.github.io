@@ -10,7 +10,7 @@ permalink: /program/
 : Laura Hernandez
 
 9:10 -  9:50, Keynote
-: Vittorio Loreto, [On the stability of consensus in language and opinion dynamics]((/pdf/Vittorio_Loreto_abstract_K1.pdf))
+: Vittorio Loreto, [On the stability of consensus in language and opinion dynamics](/pdf/Vittorio_Loreto_abstract_K1.pdf)
 
 9:55 - 10:15
 : Kiran Sharma, [Complex network approach to study the dynamics of Mazatec dialects](/pdf/Kiran_Sharma_abstract_C1.pdf)

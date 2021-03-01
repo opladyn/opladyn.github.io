@@ -24,6 +24,6 @@ Invited talks:
 
 * [Marton Karsai](https://perso.ens-lyon.fr/marton.karsai/),  Ecole Normale Supérieure de Lyon, Laboratoire de l’Informatique du Parallélisme, Computer Science Department; IXXI Rhône Alpes Complex Systems Institute, INRIA – DANTE team
 
-More details [see Program](program.md)
+More details [see Program](program.md).
 
-[Call for abstracts](call.md) _is open_  _extended deadline: Monday June 25_  is now closed
+[Call for abstracts](call.md) ~~is open~~ ~~is extended until Monday June 25 2018~~ is now closed
