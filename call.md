@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: single
 title: Call for Contributions
 permalink: /call/
+toc: true
 ---
 
 The call for contribution is now OPEN. The (non exhaustive) list of involved topics is:

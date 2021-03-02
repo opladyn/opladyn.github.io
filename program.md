@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: single
 title: Program
 permalink: /program/
+toc: true
 ---
 
 #### Wednesday, September 26th 2018
