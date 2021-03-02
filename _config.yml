@@ -34,11 +34,6 @@ plugins:
   - jekyll-feed
   - jekyll-include-cache
 
-header_pages:
-  - call.md
-  - program.md
-  - abstracts.md
-
 search: true
 search_full_content: true
 
