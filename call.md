@@ -36,11 +36,15 @@ Additionally participants to the satellites have to register at the [main confer
 
 Abstract submission deadline
 : TODO:date
+
 Notification of acceptance
 : TODO:date
+
 Early bird registration deadline (for [Networks 2021](https://networks2021.net/))
 : May 1, 2021
+
 Registration deadline (for [Networks 2021](https://networks2021.net/))
 : June 1, 2021
+
 Satellite session
 : June 2X, 2021
