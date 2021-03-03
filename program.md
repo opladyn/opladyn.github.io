@@ -11,7 +11,7 @@ classes: wide2
 
 The satellite will consist of keynote talks (40min), contributed talks (20 min) and a closing panel discussion.
 
-[Download the detailed program](/pdf/opladyn_program.pdf)
+[Download the detailed program](/pdf/opladyn_program.pdf){:target="_blank"}
 
 ### TODO:date
 
@@ -31,7 +31,7 @@ The satellite will consist of keynote talks (40min), contributed talks (20 min) 
 
 ![Filippo Menczer](/img/fm.webp){: style="float: right"}
 
-### [Filippo Menczer](https://cnets.indiana.edu/fil/)
+### [Filippo Menczer](https://cnets.indiana.edu/fil/){:target="_blank"}
 Indiana University School of Informatics, Computing, and Engineering
 
 **Lorem Ipsum**

@@ -27,5 +27,5 @@ TODO: we could include portraits, similar to <http://2020.ic2s2.org/conference-o
 
 ## Sponsors
 
-[![TransAtlantic Platform Digging into Data Challenge](/img/tap.webp)](https://diggingintodata.org/awards/2016/news/winners-round-four-t-ap-digging-data-challenge)
+[![TransAtlantic Platform Digging into Data Challenge](/img/tap.webp)](https://diggingintodata.org/awards/2016/news/winners-round-four-t-ap-digging-data-challenge){:target="_blank"}
 

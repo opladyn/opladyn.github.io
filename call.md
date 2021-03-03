@@ -29,7 +29,7 @@ Contributions will be assigned for peer review to a pair of members of the [Scie
 ## Registration
 
 Participants of the satellite should register at TODO.
-Additionally participants to the satellites have to register at the [main conference registration page](https://networks2021.net/) (opens in mid March).
+Additionally participants to the satellites have to register at the [main conference registration page](https://networks2021.net/){:target="_blank"} (opens in mid March).
 
 
 ## Important Dates
@@ -40,10 +40,10 @@ Abstract submission deadline
 Notification of acceptance
 : TODO:date
 
-Early bird registration deadline (for [Networks 2021](https://networks2021.net/))
+Early bird registration deadline (for [Networks 2021](https://networks2021.net/){:target="_blank"})
 : May 1, 2021
 
-Registration deadline (for [Networks 2021](https://networks2021.net/))
+Registration deadline (for [Networks 2021](https://networks2021.net/){:target="_blank"})
 : June 1, 2021
 
 Satellite session

@@ -10,10 +10,10 @@ header:
       url: "/register/"
     - label: "Call for Contributions"
       url: "/call/"
-  caption: "[@randomGraphs](https://twitter.com/randomGraphs)"
+  caption: "[@randomGraphs](https://twitter.com/randomGraphs){:target="_blank"}"
 ---
 
-The OpLaDyn team organizes one of the satellites at [Networks 2021](https://networks2021.net/), that will take place as a
+The OpLaDyn team organizes one of the satellites at [Networks 2021](https://networks2021.net/){:target="_blank"}, that will take place as a
 remote conference, on TODO:date, 2021.
 
 The OpLaDyn satellite is an interdisciplinary meeting bringing together scientists of different fields, interested in the study of opinion and language dynamics seen as  complex systems, by the application of methods and concepts taken from a variety of disciplines like Physics, Computer Science, Linguistics, Philosophy, and Law.
