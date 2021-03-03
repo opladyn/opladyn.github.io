@@ -37,6 +37,16 @@ plugins:
   - jekyll-feed
   - jekyll-include-cache
 
+footer:
+  links:
+    - label: "@opladyn"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/opladyn"
+    - label: "opladyn@gmail.com"
+      icon: "far fa-fw fa-envelope"
+      url: "mailto:opladyn@gmail.com"
+
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

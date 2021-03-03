@@ -13,7 +13,8 @@ header:
   caption: "[@randomGraphs](https://twitter.com/randomGraphs)"
 ---
 
-The Opladyn team organizes one of the Satellites of the [Conference on Complex System 2018](https://ccs2018.web.auth.gr/), that will take place at the Vellidio Convention Center, Tessaloniki, Greece, on September 26th, 2018.
+The OpLaDyn team organizes one of the satellites at [Networks 2021](https://networks2021.net/), that will take place as a
+remote conference, on TODO:date, 2021.
 
 The OpLaDyn satellite is an interdisciplinary meeting bringing together scientists of different fields, interested in the study of opinion and language dynamics seen as  complex systems, by the application of methods and concepts taken from a variety of disciplines like Physics, Computer Science, Linguistics, Philosophy, and Law.
 
@@ -23,4 +24,4 @@ In particular, we are interested in discussing how to extract valuable informati
 
 More details [see Program](program.md).
 
-[Call for abstracts](call.md) ~~is open~~ ~~is extended until Monday June 25 2018~~ is now closed
+[Call for contributions](call.md) is open.
