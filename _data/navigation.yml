@@ -1,5 +1,9 @@
 main:
+  - title: "Register"
+    url: /register
   - title: "Call for Contributions"
     url: /call
   - title: "Program"
     url: /program
+  - title: "Organizers"
+    url: /organizer

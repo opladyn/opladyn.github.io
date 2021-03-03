@@ -1,9 +1,17 @@
 ---
-layout: home
-classes: wide2 wide
+layout: splash
+permalink: /
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /img/graph.webp
+  actions:
+    - label: "Register"
+      url: "/register/"
+    - label: "Call for Contributions"
+      url: "/call/"
+  caption: "[@randomGraphs](https://twitter.com/randomGraphs)"
 ---
-
-![OpLaDyn header image](/img/header.webp)
 
 The Opladyn team organizes one of the Satellites of the [Conference on Complex System 2018](https://ccs2018.web.auth.gr/), that will take place at the Vellidio Convention Center, Tessaloniki, Greece, on September 26th, 2018.
 
