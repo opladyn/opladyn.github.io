@@ -1,9 +1,6 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
-toc: true
+classes: wide2 wide
 ---
 
 ![OpLaDyn header image](/img/header.webp)
@@ -15,15 +12,6 @@ The OpLaDyn satellite is an interdisciplinary meeting bringing together scientis
 The aim of this meeting is to discuss how to bring data based models, and  theoretical  models based on the interactions between agents,  into a common framework, in order to understand general features of the evolution of opinions and language.
 
 In particular, we are interested in discussing how to extract valuable information from the  massive amount of textual data available nowadays in numerical form, which are issued from very different sources, like social media (twitter) or more  traditional sources  (journals or books), searching for patterns  characterizing the dynamics of those systems. This  will provide  well defined steady states to be compared with the states of the dynamics governing theoretical model based on agent-agent interactions.
-Keynote Speakers:
-
-* [Guillaume Deffuant](https://motive.cemagref.fr/people/guillaume.deffuant), Irstea, France. Head of the LISC Laboratory (Laboratoire d’Ingénierie pour les Systèmes Complexes)
-* [Vittorio Loreto](https://socialdynamics.it/vittorioloreto/), La Sapienza Università di Roma, Director of the [SONY Computer Science Lab](https://www.csl.sony.fr/) in Paris
-* [Yamir Moreno](https://cosnet.bifi.es/people/yamir-moreno/), Head of Cosnet team, Institut of Biocomputation and Physics of Complex Systems, Zaragoza University, Spain
-
-Invited talks:
-
-* [Marton Karsai](https://perso.ens-lyon.fr/marton.karsai/),  Ecole Normale Supérieure de Lyon, Laboratoire de l’Informatique du Parallélisme, Computer Science Department; IXXI Rhône Alpes Complex Systems Institute, INRIA – DANTE team
 
 More details [see Program](program.md).
 

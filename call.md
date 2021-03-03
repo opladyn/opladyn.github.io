@@ -4,6 +4,7 @@ title: Call for Contributions
 permalink: /call/
 toc: true
 toc_sticky: true
+classes: wide2
 ---
 
 The call for contribution is now OPEN. The (non exhaustive) list of involved topics is:

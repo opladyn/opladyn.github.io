@@ -4,6 +4,7 @@ title: Program
 permalink: /program/
 toc: true
 toc_sticky: true
+classes: wide2
 ---
 
 ## Schedule
