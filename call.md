@@ -9,14 +9,13 @@ classes: wide2
 
 We call for contributions in the form of 20 minutes talks related to one of the topics of our satellite:
 
-* Textual data mining techniques
-* Community detection on opinion networks
 * Multilayer representation of social opinion
 * Cascade effects: rumor diffusion
+* Informational bubbles and echo chambers
+* Integrating heterogeneities in opinion models
 * Personal network of opinion leaders, multi-scale effects
-* Big Data and scientific research
-* Big Data and social practices
-* Mathematical models of language emergence and evolution
+* Role on the different types of media on opinion dynamics
+* Targeting text meaning: semantic networks.
 
 ## Submission guidelines
 

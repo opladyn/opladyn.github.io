@@ -30,17 +30,16 @@ The satellite will consist of keynote talks (40min), contributed talks (20 min) 
 ## Keynote Speakers
 
 ![Filippo Menczer](/img/fm.webp){: style="float: right"}
-
 ### [Filippo Menczer](https://cnets.indiana.edu/fil/){:target="_blank"}
-Indiana University School of Informatics, Computing, and Engineering
+Observatory on Social Media, Indiana University School of Informatics, Computing, and Engineering
 
 **Lorem Ipsum**
 
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 
-![Cicero](/img/c.webp){: style="float: right"}
-### Cicero
-Roman Senate
+![Ulrike Hahn](/img/uh.webp){: style="float: right"}
+### [Ulrike Hahn](http://www.bbk.ac.uk/our-staff/profile/8009667/ulrike-hahn)
+Department of Psychological Sciences, Birkbeck University of London
 
 **Lorem Ipsum**
 

@@ -13,15 +13,30 @@ header:
   caption: "[@randomGraphs](https://twitter.com/randomGraphs){:target="_blank"}"
 ---
 
-The OpLaDyn team organizes one of the satellites at [Networks 2021](https://networks2021.net/){:target="_blank"}, that will take place as a
-remote conference, on TODO:date, 2021.
+The [OpLaDyn team](http://project.u-cergy.fr/~opladyn/) organizes one of the
+satellites at [Networks 2021](https://networks2021.net/){:target="_blank"}, that will take place as a
+remote conference, on TODO:datetime, 2021.
 
-The OpLaDyn satellite is an interdisciplinary meeting bringing together scientists of different fields, interested in the study of opinion and language dynamics seen as  complex systems, by the application of methods and concepts taken from a variety of disciplines like Physics, Computer Science, Linguistics, Philosophy, and Law.
+The formation and diffusion of opinions in a society, a typical object of study of social sciences, is also of
+interest for physicists and mathematicians as it can be formulated in terms of complex dynamical systems.
 
-The aim of this meeting is to discuss how to bring data based models, and  theoretical  models based on the interactions between agents,  into a common framework, in order to understand general features of the evolution of opinions and language.
+On one hand, different models have been proposed, which aim at understanding how the observed
+regularities, like consensus, polarization or fragmentation, emerge from a dynamics governed by the
+interactions among social actors. These models are stylized simplified versions of real societies which
+integrate, in general, the most widespread properties of human interactions considered by researchers in
+social human sciences.
 
-In particular, we are interested in discussing how to extract valuable information from the  massive amount of textual data available nowadays in numerical form, which are issued from very different sources, like social media (twitter) or more  traditional sources  (journals or books), searching for patterns  characterizing the dynamics of those systems. This  will provide  well defined steady states to be compared with the states of the dynamics governing theoretical model based on agent-agent interactions.
+On the other hand, the last decade has witnessed the generalization of the usage of social networks, leading
+to an unprecedented modification of social behavior and in parallel, allowing for large scale
+phenomenological studies of the outcomes of the dynamical processes going on in those networks. This has
+led to a wide collection of observations that, though limited to the users of these platforms, provide a
+widespread view in terms of geographical location, language and cultural aspects of the involved social
+actors.
 
-More details [see Program](program.md).
+Therefore the [OpLaDyn team](http://project.u-cergy.fr/~opladyn/) organizes this satellite to contribute to
+the entanglement of the theoretical and phenomenological approaches, which are still too often considered
+separately, into one that goes "from models to data and back".
+[We welcome contributions](call.md) from scientists of different fields, interested in the study of opinion and
+language dynamics seen as complex systems, by the application of methods and concepts taken from a variety
+of disciplines like Physics, Computer Science, Linguistics, Philosophy, and Law.
 
-[Call for contributions](call.md) is open.
