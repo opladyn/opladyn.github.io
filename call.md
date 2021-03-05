@@ -8,9 +8,7 @@ classes: wide2
 ---
 
 [We welcome contributions](call.md) in the form of 20 minutes talks from scientists of different fields,
-interested in the study of opinion and language dynamics seen as complex systems, by the application
-of methods and concepts taken from a variety of disciplines like Physics, Computer Science,
-Linguistics, Philosophy, and Law.
+interested in the study of opinion and language dynamics seen as complex systems.
 
 ## Non-exhaustive list of topics
 
