@@ -7,7 +7,12 @@ toc_sticky: true
 classes: wide2
 ---
 
-We call for contributions in the form of 20 minutes talks related to one of the topics of our satellite:
+[We welcome contributions](call.md) in the form of 20 minutes talks from scientists of different fields,
+interested in the study of opinion and language dynamics seen as complex systems, by the application
+of methods and concepts taken from a variety of disciplines like Physics, Computer Science,
+Linguistics, Philosophy, and Law.
+
+## Non-exhaustive list of topics
 
 * Multilayer representation of social opinion
 * Cascade effects: rumor diffusion
@@ -20,7 +25,7 @@ We call for contributions in the form of 20 minutes talks related to one of the 
 ## Submission guidelines
 
 If you would like to contribute a talk, please prepare a single page abstract including one optional figure in pdf format no larger than 10 MB.
-The abstract should be send to [opladyn@gmail.com](mailto:opladyn@gmail.com) before the TODO:date.
+The abstract should be sent to [opladyn@gmail.com](mailto:opladyn@gmail.com) before the TODO:date.
 
 Contributions will be assigned for peer review to a pair of members of the [Scientific Committee](/organizer.md/#scientific-committee), according to the main discipline(s) involved in the proposed abstract. They will be evaluated according to their quality and their pertinence in regard of the satellite topics.
 
