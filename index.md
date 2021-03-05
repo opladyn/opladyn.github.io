@@ -13,8 +13,8 @@ header:
   caption: "[@randomGraphs](https://twitter.com/randomGraphs){:target='_blank'}"
 ---
 
-The [OpLaDyn team](http://project.u-cergy.fr/~opladyn/) organizes one of the
-satellites at [Networks 2021](https://networks2021.net/){:target="_blank"}, that will take place as a
+The [OpLaDyn team](http://project.u-cergy.fr/~opladyn/) organizes a
+Satellite Symposium at [Networks 2021](https://networks2021.net/){:target="_blank"}, that will take place as a
 remote conference, on TODO:datetime, 2021.
 
 The formation and diffusion of opinions in a society, a typical object of study of social sciences, is also of
