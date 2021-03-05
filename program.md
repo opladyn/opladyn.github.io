@@ -38,7 +38,7 @@ Observatory on Social Media, Indiana University School of Informatics, Computing
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 
 ![Ulrike Hahn](/img/uh.webp){: style="float: right"}
-### [Ulrike Hahn](http://www.bbk.ac.uk/our-staff/profile/8009667/ulrike-hahn)
+### [Ulrike Hahn](http://www.bbk.ac.uk/our-staff/profile/8009667/ulrike-hahn){:target="_blank"}
 Department of Psychological Sciences, Birkbeck University of London
 
 **Lorem Ipsum**
