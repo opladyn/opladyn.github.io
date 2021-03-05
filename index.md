@@ -10,7 +10,7 @@ header:
       url: "/register/"
     - label: "Call for Contributions"
       url: "/call/"
-  caption: "[@randomGraphs](https://twitter.com/randomGraphs){:target="_blank"}"
+  caption: "[@randomGraphs](https://twitter.com/randomGraphs){:target='_blank'}"
 ---
 
 The [OpLaDyn team](http://project.u-cergy.fr/~opladyn/) organizes one of the
@@ -39,4 +39,3 @@ separately, into one that goes "from models to data and back".
 [We welcome contributions](call.md) from scientists of different fields, interested in the study of opinion and
 language dynamics seen as complex systems, by the application of methods and concepts taken from a variety
 of disciplines like Physics, Computer Science, Linguistics, Philosophy, and Law.
-
