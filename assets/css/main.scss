@@ -35,3 +35,23 @@
 .page__footer-follow li {
   text-transform: lowercase;
 }
+
+// .page__hero--overlay {
+//   image-rendering: pixelated;
+//   image-rendering: -moz-crisp-edges;
+//   image-rendering: crisp-edges;
+// }
+
+figure {
+  display: inline-block;
+  width: 200px;
+  vertical-align:top;
+  padding: 5px;
+}
+
+figure > img {
+  height: 250px;
+  width: 200px;
+  margin: auto;
+  object-fit: contain;
+}
