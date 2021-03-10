@@ -15,14 +15,14 @@ toc: true
   <figcaption>Laura Hernández</figcaption>
 </figure>
 
-<figure title="José-Ignacio Alvarez-Hamelin, CONICET, Universidad de Buenos Aires, Argentina">
-  <img src="/img/org/ia.webp" alt="José-Ignacio Alvarez-Hamelin"/>
-  <figcaption>José-Ignacio Alvarez-Hamelin</figcaption>
-</figure>
-
 <figure title="Maria Eunice Quilici-Gonzalez, Faculty of Philosophy and Sciences, University of Sao Paulo State – UNESP, Brazil">
   <img src="/img/org/anon.webp" alt="Maria Eunice Quilici-Gonzalez"/>
   <figcaption>Maria Eunice Quilici-Gonzalez</figcaption>
+</figure>
+
+<figure title="José-Ignacio Alvarez-Hamelin, CONICET, Universidad de Buenos Aires, Argentina">
+  <img src="/img/org/ia.webp" alt="José-Ignacio Alvarez-Hamelin"/>
+  <figcaption>José-Ignacio Alvarez-Hamelin</figcaption>
 </figure>
 
 ## Scientific Committee
