@@ -7,8 +7,7 @@ toc_sticky: true
 classes: wide2
 ---
 
-[We welcome contributions](call.md) in the form of 20 minutes talks from scientists of different fields,
-interested in the study of opinion and language dynamics seen as complex systems.
+[We welcome contributions](call.md) in the form of 20 minutes talks from scientists of different fields.
 
 ## Non-exhaustive list of topics
 
