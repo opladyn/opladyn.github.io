@@ -17,7 +17,6 @@ classes: wide2
 * Integrating heterogeneities in opinion models
 * Personal network of opinion leaders, multi-scale effects
 * Role on the different types of media on opinion dynamics
-* Targeting text meaning: semantic networks.
 
 ## Submission guidelines
 
