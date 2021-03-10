@@ -36,6 +36,4 @@ actors.
 Therefore the [OpLaDyn team](http://project.u-cergy.fr/~opladyn/) organizes this satellite to contribute to
 the entanglement of the theoretical and phenomenological approaches, which are still too often considered
 separately, into one that goes "from models to data and back".
-[We welcome contributions](call.md) from scientists of different fields, interested in the study of opinion and
-language dynamics seen as complex systems, by the application of methods and concepts taken from a variety
-of disciplines like Physics, Computer Science, Linguistics, Philosophy, and Law.
+[We welcome contributions](call.md) to this satellite from scientists of different fields, interested in the study of opinion and language dynamics seen as complex systems.

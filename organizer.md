@@ -22,14 +22,14 @@ toc: true
 
 ## Scientific Committee
 
-<figure title="Mariano Gaston Beiró, CONICET, Universidad de Buenos Aires, Argentina">
-  <img src="/img/org/mb.webp" alt="Mariano Gaston Beiró"/>
-  <figcaption>Mariano Gaston Beiró</figcaption>
-</figure>
-
 <figure title="José-Ignacio Alvarez-Hamelin, CONICET, Universidad de Buenos Aires, Argentina">
   <img src="/img/org/ia.webp" alt="José-Ignacio Alvarez-Hamelin"/>
   <figcaption>José-Ignacio Alvarez-Hamelin</figcaption>
+</figure>
+
+<figure title="Mariano Gaston Beiró, CONICET, Universidad de Buenos Aires, Argentina">
+  <img src="/img/org/mb.webp" alt="Mariano Gaston Beiró"/>
+  <figcaption>Mariano Gaston Beiró</figcaption>
 </figure>
 
 <figure title="Benjamin Fagard, Laboratoire LATTICE, UMR 8094 CNRS, ENS/PSL and U. Sorbonne nouvelle/USPC, France">
