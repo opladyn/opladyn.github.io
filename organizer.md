@@ -10,14 +10,19 @@ toc: true
 
 <!-- I do not like the following construct :( -->
 
-<figure>
+<figure title="Laura Hernández, LPTM, UMR8089, CY Cergy Paris Université, France">
   <img src="/img/org/lh.webp" alt="Laura Hernández"/>
-  <figcaption>Laura Hernández, Laboratoire de Physique Théorique et Modélisation UMR8089 CNRS-Université de Cergy-Pontoise, France</figcaption>
+  <figcaption>Laura Hernández</figcaption>
 </figure>
 
-<figure style="display: inline-block; width: 200px; vertical-align:top;">
-  <img src="/img/org/ia.webp" alt="José-Ignacio Alvarez-Hamelin" style="height: 250px; width: 200px; object-fit: contain"/>
-  <figcaption>José-Ignacio Alvarez-Hamelin, Facultad de Ingenieria, Universidad de Buenos  Aires, Argentina</figcaption>
+<figure title="José-Ignacio Alvarez-Hamelin, CONICET, Universidad de Buenos Aires, Argentina">
+  <img src="/img/org/ia.webp" alt="José-Ignacio Alvarez-Hamelin"/>
+  <figcaption>José-Ignacio Alvarez-Hamelin</figcaption>
+</figure>
+
+<figure title="Maria Eunice Quilici-Gonzalez, Faculty of Philosophy and Sciences, University of Sao Paulo State – UNESP, Brazil">
+  <img src="/img/org/anon.webp" alt="Maria Eunice Quilici-Gonzalez"/>
+  <figcaption>Maria Eunice Quilici-Gonzalez</figcaption>
 </figure>
 
 ## Scientific Committee
