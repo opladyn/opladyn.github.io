@@ -12,17 +12,17 @@ toc: true
 
 <figure title="Laura Hernández, LPTM, UMR8089, CY Cergy Paris Université, France">
   <img src="/img/org/lh.webp" alt="Laura Hernández"/>
-  <figcaption>Laura Hernández</figcaption>
+  <figcaption>Laura Hernández, LPTM, UMR8089, CY Cergy Paris Université, France</figcaption>
 </figure>
 
 <figure title="Maria Eunice Quilici-Gonzalez, Faculty of Philosophy and Sciences, University of Sao Paulo State – UNESP, Brazil">
-  <img src="/img/org/anon.webp" alt="Maria Eunice Quilici-Gonzalez"/>
-  <figcaption>Maria Eunice Quilici-Gonzalez</figcaption>
+  <img src="/img/org/mg.webp" alt="Maria Eunice Quilici-Gonzalez"/>
+  <figcaption>Maria Eunice Quilici-Gonzalez, Faculty of Philosophy and Sciences, University of Sao Paulo State – UNESP, Brazil</figcaption>
 </figure>
 
 <figure title="José-Ignacio Alvarez-Hamelin, CONICET, Universidad de Buenos Aires, Argentina">
   <img src="/img/org/ia.webp" alt="José-Ignacio Alvarez-Hamelin"/>
-  <figcaption>José-Ignacio Alvarez-Hamelin</figcaption>
+  <figcaption>José-Ignacio Alvarez-Hamelin, CONICET, Universidad de Buenos Aires, Argentina</figcaption>
 </figure>
 
 ## Scientific Committee
@@ -37,9 +37,19 @@ toc: true
   <figcaption>Mariano Gaston Beiró</figcaption>
 </figure>
 
-<figure title="Benjamin Fagard, Laboratoire LATTICE, UMR 8094 CNRS, ENS/PSL and U. Sorbonne nouvelle/USPC, France">
+<figure title="Mariana Broens, Faculty of Philosophy and Sciences – University of Sao Paulo State – UNESP, Brazil">
+  <img src="/img/org/anon.webp" alt="Mariana Broens"/>
+  <figcaption>Mariana Broens</figcaption>
+</figure>
+
+<!-- <figure title="Benjamin Fagard, Laboratoire LATTICE, UMR 8094 CNRS, ENS/PSL and U. Sorbonne nouvelle/USPC, France">
   <img src="/img/org/bf.webp" alt="Benjamin Fagard"/>
   <figcaption>Benjamin Fagard</figcaption>
+</figure> -->
+
+<figure title="Yérali Gandica, LPTM, UMR8089, CY Cergy Paris Université, France">
+  <img src="/img/org/anon.webp" alt="Yérali Gandica"/>
+  <figcaption>Yérali Gandica</figcaption>
 </figure>
 
 <figure title="Laura Hernández, LPTM, UMR8089, CY Cergy Paris Université, France">
@@ -52,10 +62,10 @@ toc: true
   <figcaption>Dimitris Kotzinos</figcaption>
 </figure>
 
-<figure title="Thierry Poibeau, Laboratoire LATTICE, UMR 8094 CNRS, ENS/PSL and U. Sorbonne nouvelle/USPC, France">
+<!-- <figure title="Thierry Poibeau, Laboratoire LATTICE, UMR 8094 CNRS, ENS/PSL and U. Sorbonne nouvelle/USPC, France">
   <img src="/img/org/tp.webp" alt="Thierry Poibeau"/>
   <figcaption>Thierry Poibeau</figcaption>
-</figure>
+</figure> -->
 
 
 
