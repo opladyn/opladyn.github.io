@@ -43,7 +43,7 @@ Notification of acceptance
 Registration for the Satellite
 : June 1, 2021
 
-Early bird registration deadline for [Networks 2021](https://networks2021.net/{:target="_blank"})
+Early bird registration deadline for [Networks 2021](https://networks2021.net/){:target="_blank"}
 : May 15, 2021
 
 Registration deadline for [Networks 2021](https://networks2021.net/){:target="_blank"}
