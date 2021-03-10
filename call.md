@@ -38,10 +38,10 @@ Abstract submission deadline
 : May 3, 2021
 
 Notification of acceptance
-: Mid of May, 2021
+: May 13, 2021
 
 Registration for the Satellite
-: End of May, 2021
+: June 1, 2021
 
 Early bird registration deadline for [Networks 2021](https://networks2021.net/{:target="_blank"})
 : May 1, 2021
