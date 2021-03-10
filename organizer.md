@@ -80,3 +80,5 @@ toc: true
 
 [![TransAtlantic Platform Digging into Data Challenge](/img/tap.webp)](https://diggingintodata.org/awards/2016/news/winners-round-four-t-ap-digging-data-challenge){:target="_blank"}
 
+
+![ANR](/img/anr.webp)
