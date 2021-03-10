@@ -46,7 +46,7 @@ figure {
   display: inline-block;
   width: 200px;
   vertical-align:top;
-  padding: 5px;
+  padding: 10px;
 }
 
 figure > img {
@@ -55,4 +55,8 @@ figure > img {
   margin: auto;
   object-fit: cover;
   box-shadow: 5px 5px 3px grey;
+}
+
+figure > figcaption {
+  padding-top: 5px;
 }
