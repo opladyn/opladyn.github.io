@@ -13,19 +13,9 @@ The satellite will consist of keynote talks (40min), contributed talks (20 min) 
 
 [Download the detailed program](/pdf/opladyn_program.pdf){:target="_blank"}
 
-### TODO:date
+### Date to be announced
 
-9:00 -  9:10, Opening
-: Laura Hernandez
-
-9:10 -  9:50, Keynote
-: Cicero, [Lorem Ipsum](/pdf/lorem.pdf){:target="_blank"}
-
-10:40 - 11:10, Coffee break
-: &nbsp;
-
-18:05 - 18:30, Closing discussion
-: &nbsp;
+Schedule to be announced
 
 ## Keynote Speakers
 
@@ -48,6 +38,6 @@ countering the online manipulation of opinions.
 ### [Ulrike Hahn](http://www.bbk.ac.uk/our-staff/profile/8009667/ulrike-hahn){:target="_blank"}
 Department of Psychological Sciences, Birkbeck University of London
 
-**Lorem Ipsum**
+**Title to be announced**
 
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
