@@ -15,7 +15,7 @@ header:
 
 The [OpLaDyn team](http://project.u-cergy.fr/~opladyn/) organizes a
 Satellite Symposium at [Networks 2021](https://networks2021.net/){:target="_blank"}, that will take place as a
-remote conference, on TODO:datetime, 2021.
+remote conference, on one day between June 21 and July 3, 2021.
 
 The formation and diffusion of opinions in a society, a typical object of study of social sciences, is also of
 interest for physicists and mathematicians as it can be formulated in terms of complex dynamical systems.
