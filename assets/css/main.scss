@@ -50,8 +50,9 @@ figure {
 }
 
 figure > img {
-  height: 250px;
+  height: 300px;
   width: 200px;
   margin: auto;
-  object-fit: contain;
+  object-fit: cover;
+  box-shadow: 5px 5px 3px grey;
 }
