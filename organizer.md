@@ -63,7 +63,7 @@ toc: true
 </figure>
 
 <figure title="Daniel Martínez Ávila, Faculty of Philosophy and Sciences – University of Sao Paulo State – UNESP, Brazil">
-  <img src="/img/org/mbr.webp" alt="Daniel Martínez Ávila"/>
+  <img src="/img/org/dm.webp" alt="Daniel Martínez Ávila"/>
   <figcaption>Daniel Martínez Ávila</figcaption>
 </figure>
 
