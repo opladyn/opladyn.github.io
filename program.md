@@ -34,7 +34,7 @@ ongoing network analytics, modeling, and machine learning efforts to
 study the viral spread of misinformation and to develop tools for
 countering the online manipulation of opinions.
 
-![Ulrike Hahn](/img/uh.webp){: style="float: right"}
+<!-- ![Ulrike Hahn](/img/uh.webp){: style="float: right"} -->
 ### [Ulrike Hahn](http://www.bbk.ac.uk/our-staff/profile/8009667/ulrike-hahn){:target="_blank"}
 Department of Psychological Sciences, Birkbeck University of London
 
