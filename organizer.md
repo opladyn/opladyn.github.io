@@ -67,6 +67,11 @@ toc: true
   <figcaption>Daniel Martínez Ávila</figcaption>
 </figure>
 
+<figure title="Jean-Pierre Nadal LPS-ENS, CAMS, EHESS, France">
+  <img src="/img/org/anon.webp" alt="Jean-Pierre Nadal"/>
+  <figcaption>Jean-Pierre Nadal</figcaption>
+</figure>
+
 
 <!-- <figure title="Thierry Poibeau, Laboratoire LATTICE, UMR 8094 CNRS, ENS/PSL and U. Sorbonne nouvelle/USPC, France">
   <img src="/img/org/tp.webp" alt="Thierry Poibeau"/>
