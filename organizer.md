@@ -38,17 +38,17 @@ toc: true
 </figure>
 
 <figure title="Mariana Broens, Faculty of Philosophy and Sciences – University of Sao Paulo State – UNESP, Brazil">
-  <img src="/img/org/anon.webp" alt="Mariana Broens"/>
+  <img src="/img/org/mbr.webp" alt="Mariana Broens"/>
   <figcaption>Mariana Broens</figcaption>
 </figure>
 
-<!-- <figure title="Benjamin Fagard, Laboratoire LATTICE, UMR 8094 CNRS, ENS/PSL and U. Sorbonne nouvelle/USPC, France">
+<figure title="Benjamin Fagard, Laboratoire LATTICE, UMR 8094 CNRS, ENS/PSL and U. Sorbonne nouvelle/USPC, France">
   <img src="/img/org/bf.webp" alt="Benjamin Fagard"/>
   <figcaption>Benjamin Fagard</figcaption>
-</figure> -->
+</figure>
 
 <figure title="Yérali Gandica, LPTM, UMR8089, CY Cergy Paris Université, France">
-  <img src="/img/org/anon.webp" alt="Yérali Gandica"/>
+  <img src="/img/org/yg.webp" alt="Yérali Gandica"/>
   <figcaption>Yérali Gandica</figcaption>
 </figure>
 
@@ -61,6 +61,12 @@ toc: true
   <img src="/img/org/dk.webp" alt="Dimitris Kotzinos"/>
   <figcaption>Dimitris Kotzinos</figcaption>
 </figure>
+
+<figure title="Daniel Martínez Ávila, Faculty of Philosophy and Sciences – University of Sao Paulo State – UNESP, Brazil">
+  <img src="/img/org/mbr.webp" alt="Daniel Martínez Ávila"/>
+  <figcaption>Daniel Martínez Ávila</figcaption>
+</figure>
+
 
 <!-- <figure title="Thierry Poibeau, Laboratoire LATTICE, UMR 8094 CNRS, ENS/PSL and U. Sorbonne nouvelle/USPC, France">
   <img src="/img/org/tp.webp" alt="Thierry Poibeau"/>
@@ -79,6 +85,5 @@ toc: true
 ## Sponsors
 
 [![TransAtlantic Platform Digging into Data Challenge](/img/tap.webp)](https://diggingintodata.org/awards/2016/news/winners-round-four-t-ap-digging-data-challenge){:target="_blank"}
-
 
 ![ANR](/img/anr.webp)
