@@ -11,7 +11,7 @@ classes: wide2
 
 The satellite will consist of keynote talks (40min), contributed talks (20 min) and a closing panel discussion.
 
-[Download the detailed program](/pdf/opladyn_program.pdf){:target="_blank"}
+<!-- [Download the detailed program](/pdf/opladyn_program.pdf){:target="_blank"} -->
 
 ### Date to be announced
 
