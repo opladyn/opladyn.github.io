@@ -68,7 +68,7 @@ toc: true
 </figure>
 
 <figure title="Jean-Pierre Nadal LPS-ENS, CAMS, EHESS, France">
-  <img src="/img/org/anon.webp" alt="Jean-Pierre Nadal"/>
+  <img src="/img/org/jn.webp" alt="Jean-Pierre Nadal"/>
   <figcaption>Jean-Pierre Nadal</figcaption>
 </figure>
 
