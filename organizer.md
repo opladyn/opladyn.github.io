@@ -21,21 +21,27 @@ toc: true
   <figcaption>Maria Eunice Quilici-Gonzalez, Faculty of Philosophy and Sciences, UNESP, Brazil</figcaption>
 </figure>
 
-<figure title="José-Ignacio Alvarez-Hamelin, CONICET, Universidad de Buenos Aires, Argentina">
+<figure title="José-Ignacio Alvarez-Hamelin, CONICET - Universidad de Buenos Aires, INTECIN
+Universidad de Buenos Aires, Facultad de Ingeniería, Argentina">
   <img src="/img/org/ia.webp" alt="José-Ignacio Alvarez-Hamelin"/>
-  <figcaption>José-Ignacio Alvarez-Hamelin, CONICET, Universidad de Buenos Aires, Argentina</figcaption>
+  <figcaption>José-Ignacio Alvarez-Hamelin, CONICET - Universidad de Buenos Aires, INTECIN
+Universidad de Buenos Aires, Facultad de Ingeniería, Argentina</figcaption>
 </figure>
 
 ## Scientific Committee
 
-<figure title="José-Ignacio Alvarez-Hamelin, CONICET, Universidad de Buenos Aires, Argentina">
+<figure title="José-Ignacio Alvarez-Hamelin, CONICET - Universidad de Buenos Aires, INTECIN
+Universidad de Buenos Aires, Facultad de Ingeniería, Argentina">
   <img src="/img/org/ia.webp" alt="José-Ignacio Alvarez-Hamelin"/>
-  <figcaption>José-Ignacio Alvarez-Hamelin, CONICET, Universidad de Buenos Aires, Argentina</figcaption>
+  <figcaption>José-Ignacio Alvarez-Hamelin, CONICET - Universidad de Buenos Aires, INTECIN
+Universidad de Buenos Aires, Facultad de Ingeniería, Argentina</figcaption>
 </figure>
 
-<figure title="Mariano Gaston Beiró, CONICET, Universidad de Buenos Aires, Argentina">
+<figure title="Mariano Gaston Beiró, CONICET - Universidad de Buenos Aires, INTECIN
+Universidad de Buenos Aires, Facultad de Ingeniería, Argentina">
   <img src="/img/org/mb.webp" alt="Mariano Gaston Beiró"/>
-  <figcaption>Mariano Gaston Beiró, CONICET, Universidad de Buenos Aires, Argentina</figcaption>
+  <figcaption>Mariano Gaston Beiró, CONICET - Universidad de Buenos Aires, INTECIN
+Universidad de Buenos Aires, Facultad de Ingeniería, Argentina</figcaption>
 </figure>
 
 <figure title="Mariana Broens, Faculty of Philosophy and Sciences, UNESP, Brazil">
@@ -75,7 +81,7 @@ toc: true
 
 <figure title="Maria Eunice Quilici-Gonzalez, Faculty of Philosophy and Sciences, UNESP, Brazil">
   <img src="/img/org/mg.webp" alt="Maria Eunice Quilici-Gonzalez"/>
-  <figcaption>Maria Eunice Quilici-Gonzalez, Faculty of Philosophy and Sciences, University of Sao Paulo State – UNESP, Brazil</figcaption>
+  <figcaption>Maria Eunice Quilici-Gonzalez, Faculty of Philosophy and Sciences, UNESP, Brazil</figcaption>
 </figure>
 
 <!-- <figure title="Thierry Poibeau, Laboratoire LATTICE, UMR 8094 CNRS, ENS/PSL and U. Sorbonne nouvelle/USPC, France">
