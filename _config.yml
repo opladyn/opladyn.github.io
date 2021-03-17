@@ -46,6 +46,9 @@ footer:
       icon: "far fa-fw fa-envelope"
       url: "mailto:opladyn@gmail.com"
 
+head_scripts:
+  - /assets/js/strftime.js
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
