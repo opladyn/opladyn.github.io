@@ -21,27 +21,21 @@ toc: true
   <figcaption>Maria Eunice Quilici-Gonzalez, Faculty of Philosophy and Sciences, UNESP, Brazil</figcaption>
 </figure>
 
-<figure title="José-Ignacio Alvarez-Hamelin, CONICET - Universidad de Buenos Aires, INTECIN
-Universidad de Buenos Aires, Facultad de Ingeniería, Argentina">
+<figure title="José-Ignacio Alvarez-Hamelin, CONICET, INTECIN, Universidad de Buenos Aires, Facultad de Ingeniería, Argentina">
   <img src="/img/org/ia.webp" alt="José-Ignacio Alvarez-Hamelin"/>
-  <figcaption>José-Ignacio Alvarez-Hamelin, CONICET - Universidad de Buenos Aires, INTECIN
-Universidad de Buenos Aires, Facultad de Ingeniería, Argentina</figcaption>
+  <figcaption>José-Ignacio Alvarez-Hamelin, CONICET, INTECIN, Universidad de Buenos Aires, Facultad de Ingeniería, Argentina</figcaption>
 </figure>
 
 ## Scientific Committee
 
-<figure title="José-Ignacio Alvarez-Hamelin, CONICET - Universidad de Buenos Aires, INTECIN
-Universidad de Buenos Aires, Facultad de Ingeniería, Argentina">
+<figure title="José-Ignacio Alvarez-Hamelin, CONICET, INTECIN, Universidad de Buenos Aires, Facultad de Ingeniería, Argentina">
   <img src="/img/org/ia.webp" alt="José-Ignacio Alvarez-Hamelin"/>
-  <figcaption>José-Ignacio Alvarez-Hamelin, CONICET - Universidad de Buenos Aires, INTECIN
-Universidad de Buenos Aires, Facultad de Ingeniería, Argentina</figcaption>
+  <figcaption>José-Ignacio Alvarez-Hamelin, CONICET, INTECIN, Universidad de Buenos Aires, Facultad de Ingeniería, Argentina</figcaption>
 </figure>
 
-<figure title="Mariano Gaston Beiró, CONICET - Universidad de Buenos Aires, INTECIN
-Universidad de Buenos Aires, Facultad de Ingeniería, Argentina">
+<figure title="Mariano Gaston Beiró, CONICET, INTECIN, Universidad de Buenos Aires, Facultad de Ingeniería, Argentina">
   <img src="/img/org/mb.webp" alt="Mariano Gaston Beiró"/>
-  <figcaption>Mariano Gaston Beiró, CONICET - Universidad de Buenos Aires, INTECIN
-Universidad de Buenos Aires, Facultad de Ingeniería, Argentina</figcaption>
+  <figcaption>Mariano Gaston Beiró, CONICET, INTECIN, Universidad de Buenos Aires, Facultad de Ingeniería, Argentina</figcaption>
 </figure>
 
 <figure title="Mariana Broens, Faculty of Philosophy and Sciences, UNESP, Brazil">
@@ -95,7 +89,7 @@ Universidad de Buenos Aires, Facultad de Ingeniería, Argentina</figcaption>
 
 <figure title="Hendrik Schawe, LPTM, UMR8089, CY Cergy Paris Université, France">
   <img src="/img/org/hs.webp" alt="Hendrik Schawe"/>
-  <figcaption>Hendrik Schawe</figcaption>
+  <figcaption>Hendrik Schawe, LPTM, UMR8089, CY Cergy Paris Université, France</figcaption>
 </figure>
 
 ## Sponsors
