@@ -78,12 +78,6 @@ toc: true
   <figcaption>Maria Eunice Quilici-Gonzalez, Faculty of Philosophy and Sciences, UNESP, Brazil</figcaption>
 </figure>
 
-<!-- <figure title="Thierry Poibeau, Laboratoire LATTICE, UMR 8094 CNRS, ENS/PSL and U. Sorbonne nouvelle/USPC, France">
-  <img src="/img/org/tp.webp" alt="Thierry Poibeau"/>
-  <figcaption>Thierry Poibeau</figcaption>
-</figure> -->
-
-
 
 ## Technical assistance
 
