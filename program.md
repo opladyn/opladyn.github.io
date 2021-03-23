@@ -17,13 +17,7 @@ The satellite will consist of keynote talks (40min), contributed talks (20 min) 
 
 The Satellite takes place on July 2, 2021 from 8:30 EST to 12:30 EST.
 
-(This should be
-<script>
-const event_begin = new Date('July 2, 2021 8:30 EST');
-const event_end = new Date('July 2, 2021 12:30 EST');
-document.write("from " + strftime('%d-%m-%Y %H:%M', event_begin) + " to " + strftime('%d-%m-%Y %H:%M', event_end));
-</script>
-in your local timezone.)
+(This should be <script>event_local()</script> in your local timezone.)
 
 ## Keynote Speakers
 
