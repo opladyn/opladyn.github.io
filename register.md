@@ -5,6 +5,7 @@ permalink: /register/
 classes: wide2
 ---
 
-For registration, please fill out [this form](https://forms.gle/8uwzvbLBG45Y6PMz8){:target="_blank"}.
+To participate in this Satellite you have to register at the [website of the main conference](https://networks2021.net/).
+Options to register only for this Satellite will be available for a lower fee. The deadline for registration is June 1.
 
-TODO: something about fees and link to Networks 2021
+Additionally, please also fill out [this form](https://forms.gle/8uwzvbLBG45Y6PMz8){:target="_blank"}.
