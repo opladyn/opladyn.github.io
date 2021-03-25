@@ -15,9 +15,7 @@ The satellite will consist of keynote talks (40min) and contributed talks (20 mi
 
 ### July 2, 2021 8:30 EST
 
-The Satellite takes place on July 2, 2021 from 8:30 EST to 12:30 EST.
-
-(This should be <script>event_local()</script> in your local timezone.)
+The Satellite takes place on July 2, 2021 from 8:30 EST to 12:30 EST (<script>event_local()</script><noscript>activate JavaScript to see the time</noscript> in your local timezone.)
 
 ## Keynote Speakers
 
