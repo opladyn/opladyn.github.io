@@ -21,7 +21,7 @@ classes: wide2
 ## Submission guidelines
 
 If you would like to contribute a talk, please prepare a single page abstract including one optional figure in pdf format no larger than 10 MB.
-The abstract should be sent to [opladyn@gmail.com](mailto:opladyn@gmail.com) before May 3, 2021. Please also register [for this satellite](/register.md) and the [main conference](https://networks2021.net/){:target="_blank"}.
+The abstract should be sent to [opladyn@gmail.com](mailto:opladyn@gmail.com) before ~~May 3~~ May 24, 2021. Please also register [for this satellite](/register.md) and the [main conference](https://networks2021.net/){:target="_blank"}.
 
 Contributions will be assigned for peer review to a pair of members of the [Scientific Committee](/organizer.md/#scientific-committee), according to the main discipline(s) involved in the proposed abstract. They will be evaluated according to their quality and their pertinence in regard of the satellite topics.
 
