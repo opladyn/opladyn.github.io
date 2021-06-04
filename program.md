@@ -19,7 +19,7 @@ The Satellite takes place on July 2, 2021 from 8:30 EST to 12:30 EST (<script>ev
 
 ## Keynote Speakers
 
-![Filippo Menczer](/img/fm.webp){: style="float: right"}
+![Filippo Menczer](/img/fm.webp){: style="float: right"}{:.portrait}
 ### [Filippo Menczer](https://cnets.indiana.edu/fil/){:target="_blank"}
 Observatory on Social Media, Indiana University School of Informatics, Computing, and Engineering
 
@@ -34,7 +34,7 @@ ongoing network analytics, modeling, and machine learning efforts to
 study the viral spread of misinformation and to develop tools for
 countering the online manipulation of opinions.
 
-![Ulrike Hahn](/img/uh.webp){: style="float: right"}
+![Ulrike Hahn](/img/uh.webp){: style="float: right"}{:.portrait}
 ### [Ulrike Hahn](http://www.bbk.ac.uk/our-staff/profile/8009667/ulrike-hahn){:target="_blank"}
 Department of Psychological Sciences, Birkbeck University of London
 

@@ -49,7 +49,7 @@ figure {
   margin: 1em;
 }
 
-figure > img {
+.portrait, figure > img {
   height: 300px;
   width: 200px;
   margin: auto;
