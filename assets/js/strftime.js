@@ -93,7 +93,7 @@ function strftime(sFormat, date) {
 }
 
 function event_local() {
-  const event_begin = new Date('July 2, 2021 8:30 EST');
-  const event_end = new Date('July 2, 2021 12:30 EST');
+  const event_begin = new Date('July 2, 2021 8:30 EDT');
+  const event_end = new Date('July 2, 2021 12:30 EDT');
   document.write("from " + strftime('%B %d, %H:%M', event_begin) + " to " + strftime('%H:%M', event_end));
 }
