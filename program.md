@@ -13,7 +13,7 @@ The satellite will consist of keynote talks (40min) and contributed talks (20 mi
 
 <!-- [Download the detailed program](/pdf/opladyn_program.pdf){:target="_blank"} -->
 
-### July 2, 2021 8:30 EST
+### July 2, 2021 8:30 EDT
 
 The Satellite takes place on July 2, 2021 from 8:30 EDT to 12:30 EDT (<script>event_local()</script><noscript>activate JavaScript to see the time</noscript> in your local timezone.)
 
