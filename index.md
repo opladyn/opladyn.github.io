@@ -13,9 +13,11 @@ header:
   caption: "[@randomGraphs](https://twitter.com/randomGraphs){:target='_blank'}"
 ---
 
-The [OpLaDyn team](http://project.u-cergy.fr/~opladyn/) organizes a
-Satellite Symposium at [Networks 2021](https://networks2021.net/){:target="_blank"}, that will take place as a
+The [OpLaDyn team](http://project.u-cergy.fr/~opladyn/) organized a
+Satellite Symposium at [Networks 2021](https://networks2021.net/){:target="_blank"}, that took place as a
 remote conference, on July 2, 2021 from 8:30 EDT to 12:30 EDT (<script>event_local()</script><noscript>activate JavaScript to see the time</noscript> in your local timezone).
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/D6C1y7fK-6k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 The formation and diffusion of opinions in a society, a typical object of study of social sciences, is also of
 interest for physicists and mathematicians as it can be formulated in terms of complex dynamical systems.
